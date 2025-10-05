@@ -1,196 +1,196 @@
 ,Country,Times mentioned
-0,Afghanistan,1
-1,Albania,2
-2,Algeria,1
-3,Andorra,0
-4,Angola,1
-5,Antigua and Barbuda,0
-6,Argentina,0
-7,Armenia,0
-8,Australia,2
-9,Austria,5
-10,Azerbaijan,0
-11,Bahamas,0
-12,Bahrain,0
-13,Bangladesh,2
-14,Barbados,0
-15,Belarus,1
-16,Belgium,2
-17,Belize,0
-18,Benin,0
-19,Bhutan,0
-20,Bolivia,0
-21,Bosnia and Herzegovina,0
-22,Botswana,0
-23,Brazil,0
-24,Brunei,0
-25,Bulgaria,1
-26,Burkina Faso,0
-27,Burundi,0
-28,Cabo Verde,0
-29,Cambodia,2
-30,Cameroon,0
-31,Canada,2
-32,Central African Republic,0
-33,Chad,0
-34,Chile,0
-35,China,10
-36,Colombia,0
-37,Comoros,0
-38,Costa Rica,0
-39,Croatia,0
-40,Cuba,3
-41,Cyprus,0
-42,Czechia,0
-43,Côte d'Ivoire,0
-44,Democratic Republic of the Congo,0
-45,Denmark,3
-46,Djibouti,0
-47,Dominica,0
-48,Dominican Republic,0
-49,Ecuador,0
-50,Egypt,2
-51,El Salvador,0
-52,Equatorial Guinea,0
-53,Eritrea,0
-54,Estonia,2
-55,Eswatini,0
-56,Ethiopia,0
-57,Fiji,0
-58,Finland,4
-59,France,17
-60,Gabon,0
-61,Gambia,0
-62,Georgia,0
-63,Germany,41
-64,Ghana,1
-65,Greece,4
-66,Grenada,0
-67,Guatemala,0
-68,Guinea,4
-69,Guinea-Bissau,0
-70,Guyana,0
-71,Haiti,0
-72,Honduras,0
-73,Hungary,3
-74,Iceland,0
-75,India,9
-76,Indonesia,0
-77,Iran,4
-78,Iraq,1
-79,Ireland,0
-80,Israel,4
-81,Italy,14
-82,Jamaica,0
-83,Japan,33
-84,Jordan,0
-85,Kazakhstan,0
-86,Kenya,1
-87,Kiribati,0
-88,Kuwait,0
-89,Kyrgyzstan,0
-90,Laos,1
-91,Latvia,2
-92,Lebanon,1
-93,Lesotho,0
-94,Liberia,0
-95,Libya,5
-96,Liechtenstein,0
-97,Lithuania,3
-98,Luxembourg,1
-99,Madagascar,0
-100,Malawi,0
-101,Malaysia,0
-102,Maldives,0
-103,Mali,0
-104,Malta,0
-105,Marshall Islands,0
-106,Mauritania,0
-107,Mauritius,0
-108,Mexico,1
-109,Micronesia,0
-110,Moldova,0
-111,Monaco,0
-112,Mongolia,1
-113,Montenegro,0
-114,Morocco,1
-115,Mozambique,1
-116,Myanmar,0
-117,Namibia,0
-118,Nauru,0
-119,Nepal,0
-120,Netherlands,2
-121,New Zealand,0
-122,Nicaragua,0
-123,Niger,0
-124,Nigeria,0
-125,North Korea,0
-126,North Macedonia,0
-127,Norway,5
-128,Oman,0
-129,Pakistan,4
-130,Palau,0
-131,Palestine,0
-132,Panama,1
-133,Papua New Guinea,0
-134,Paraguay,0
-135,Peru,0
-136,Philippines,5
-137,Poland,13
-138,Portugal,0
-139,Qatar,0
-140,Republic of the Congo,0
-141,Romania,3
-142,Russia,9
-143,Rwanda,1
-144,Saint Kitts and Nevis,0
-145,Saint Lucia,0
-146,Saint Vincent and the Grenadines,0
-147,Samoa,0
-148,San Marino,0
-149,Saudi Arabia,0
-150,Senegal,0
-151,Serbia,0
-152,Seychelles,1
-153,Sierra Leone,0
-154,Singapore,2
-155,Slovakia,0
-156,Slovenia,0
-157,Solomon Islands,0
-158,Somalia,0
-159,South Africa,0
-160,South Korea,0
-161,South Sudan,0
-162,Spain,1
-163,Sri Lanka,0
-164,Sudan,0
-165,Suriname,0
-166,Sweden,1
-167,Switzerland,0
-168,Syria,0
-169,São Tomé and Príncipe,0
-170,Tajikistan,0
-171,Tanzania,0
-172,Thailand,1
-173,Timor Leste,0
-174,Togo,0
-175,Tonga,0
-176,Trinidad and Tobago,0
-177,Tunisia,0
-178,Turkmenistan,0
-179,Tuvalu,0
-180,Türkiye,0
-181,Uganda,0
-182,Ukraine,2
-183,United Arab Emirates,0
-184,United Kingdom,0
-185,United States,0
-186,Uruguay,0
-187,Uzbekistan,0
-188,Vanuatu,0
-189,Vatican City,0
-190,Venezuela,0
-191,Vietnam,13
-192,Yemen,0
-193,Zambia,0
-194,Zimbabwe,0
+0,afghanistan,0
+1,albania,2
+2,algeria,1
+3,andorra,0
+4,angola,1
+5,antigua and barbuda,0
+6,argentina,0
+7,armenia,0
+8,australia,2
+9,austria,4
+10,azerbaijan,0
+11,bahamas,0
+12,bahrain,0
+13,bangladesh,2
+14,barbados,0
+15,belarus,1
+16,belgium,2
+17,belize,0
+18,benin,0
+19,bhutan,0
+20,bolivia,0
+21,bosnia and herzegovina,0
+22,botswana,0
+23,brazil,0
+24,brunei,0
+25,bulgaria,1
+26,burkina faso,0
+27,burundi,0
+28,cabo verde,0
+29,cambodia,2
+30,cameroon,0
+31,canada,2
+32,central african republic,0
+33,chad,0
+34,chile,0
+35,china,9
+36,colombia,0
+37,comoros,0
+38,costa rica,0
+39,croatia,0
+40,cuba,3
+41,cyprus,0
+42,czechia,0
+43,côte d'ivoire,0
+44,democratic republic of the congo,0
+45,denmark,2
+46,djibouti,0
+47,dominica,0
+48,dominican republic,0
+49,ecuador,0
+50,egypt,2
+51,el salvador,0
+52,equatorial guinea,0
+53,eritrea,0
+54,estonia,2
+55,eswatini,0
+56,ethiopia,0
+57,fiji,0
+58,finland,2
+59,france,14
+60,gabon,0
+61,gambia,0
+62,georgia,0
+63,germany,32
+64,ghana,1
+65,greece,3
+66,grenada,0
+67,guatemala,0
+68,guinea,4
+69,guinea-bissau,0
+70,guyana,0
+71,haiti,0
+72,honduras,0
+73,hungary,3
+74,iceland,0
+75,india,6
+76,indonesia,0
+77,iran,2
+78,iraq,1
+79,ireland,0
+80,israel,2
+81,italy,8
+82,jamaica,0
+83,japan,26
+84,jordan,0
+85,kazakhstan,0
+86,kenya,1
+87,kiribati,0
+88,kuwait,0
+89,kyrgyzstan,0
+90,laos,0
+91,latvia,2
+92,lebanon,0
+93,lesotho,0
+94,liberia,0
+95,libya,3
+96,liechtenstein,0
+97,lithuania,3
+98,luxembourg,1
+99,madagascar,0
+100,malawi,0
+101,malaysia,0
+102,maldives,0
+103,mali,0
+104,malta,0
+105,marshall islands,0
+106,mauritania,0
+107,mauritius,0
+108,mexico,1
+109,micronesia,0
+110,moldova,0
+111,monaco,0
+112,mongolia,1
+113,montenegro,0
+114,morocco,1
+115,mozambique,1
+116,myanmar,0
+117,namibia,0
+118,nauru,0
+119,nepal,0
+120,netherlands,2
+121,new zealand,0
+122,nicaragua,0
+123,niger,0
+124,nigeria,0
+125,north korea,0
+126,north macedonia,0
+127,norway,3
+128,oman,0
+129,pakistan,2
+130,palau,0
+131,palestine,0
+132,panama,1
+133,papua new guinea,0
+134,paraguay,0
+135,peru,0
+136,philippines,0
+137,poland,12
+138,portugal,0
+139,qatar,0
+140,republic of the congo,0
+141,romania,2
+142,russia,7
+143,rwanda,1
+144,saint kitts and nevis,0
+145,saint lucia,0
+146,saint vincent and the grenadines,0
+147,samoa,0
+148,san marino,0
+149,saudi arabia,0
+150,senegal,0
+151,serbia,0
+152,seychelles,1
+153,sierra leone,0
+154,singapore,1
+155,slovakia,0
+156,slovenia,0
+157,solomon islands,0
+158,somalia,0
+159,south africa,0
+160,south korea,0
+161,south sudan,0
+162,spain,1
+163,sri lanka,0
+164,sudan,0
+165,suriname,0
+166,sweden,1
+167,switzerland,0
+168,syria,0
+169,são tomé and príncipe,0
+170,tajikistan,0
+171,tanzania,0
+172,thailand,1
+173,timor leste,0
+174,togo,0
+175,tonga,0
+176,trinidad and tobago,0
+177,tunisia,0
+178,turkmenistan,0
+179,tuvalu,0
+180,türkiye,0
+181,uganda,0
+182,ukraine,2
+183,united arab emirates,0
+184,united kingdom,0
+185,united states,0
+186,uruguay,0
+187,uzbekistan,0
+188,vanuatu,0
+189,vatican city,0
+190,venezuela,0
+191,vietnam,8
+192,yemen,0
+193,zambia,0
+194,zimbabwe,0
