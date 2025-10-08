@@ -62,7 +62,7 @@
 60,gabon,0
 61,gambia,0
 62,georgia,0
-63,germany,32
+63,germany,92
 64,ghana,1
 65,greece,3
 66,grenada,0
@@ -89,7 +89,7 @@
 87,kiribati,0
 88,kuwait,0
 89,kyrgyzstan,0
-90,laos,0
+90,laos,1
 91,latvia,2
 92,lebanon,0
 93,lesotho,0
@@ -135,13 +135,13 @@
 133,papua new guinea,0
 134,paraguay,0
 135,peru,0
-136,philippines,0
+136,philippines,3
 137,poland,12
 138,portugal,0
 139,qatar,0
 140,republic of the congo,0
 141,romania,2
-142,russia,7
+142,russia,61
 143,rwanda,1
 144,saint kitts and nevis,0
 145,saint lucia,0
@@ -183,8 +183,8 @@
 181,uganda,0
 182,ukraine,2
 183,united arab emirates,0
-184,united kingdom,0
-185,united states,0
+184,united kingdom,19
+185,united states,11
 186,uruguay,0
 187,uzbekistan,0
 188,vanuatu,0
