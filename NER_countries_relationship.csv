@@ -1,87 +1,115 @@
 ,source,target,value
-0,France,Russia,12
-1,Germany,Russia,21
-2,Germany,Italy,26
-3,Austria,Germany,11
-4,Germany,Spain,1
-5,France,Spain,1
-6,France,Poland,11
-7,France,Germany,23
-8,Germany,Poland,29
-9,Estonia,Germany,5
-10,Estonia,Latvia,12
-11,Latvia,Lithuania,6
-12,Finland,Lithuania,11
-13,Finland,Germany,5
-14,Denmark,Poland,5
-15,Denmark,Norway,12
-16,Denmark,Sweden,6
-17,Germany,Sweden,6
-18,Belgium,Germany,5
-19,Belgium,Netherlands,6
-20,Luxembourg,Netherlands,6
-21,Belgium,Luxembourg,5
-22,Belgium,France,6
-23,France,Italy,5
-24,Albania,Greece,12
-25,Greece,Ukraine,4
-26,Belarus,Ukraine,6
-27,Belarus,Libya,3
-28,Egypt,Libya,15
-29,Egypt,Iraq,5
-30,Germany,Japan,24
-31,Japan,Russia,16
-32,Germany,Morocco,1
-33,Algeria,Morocco,6
-34,Algeria,Italy,5
-35,China,Japan,30
-36,Japan,Thailand,6
-37,Singapore,Thailand,6
-38,Japan,Singapore,5
-39,Japan,Solomon Islands,16
-40,Philippines,Solomon Islands,6
-41,Japan,Philippines,6
-42,India,Japan,12
-43,China,France,6
-44,China,India,12
-45,India,Pakistan,12
-46,Israel,Pakistan,6
-47,Israel,South Africa,12
-48,Israel,Libya,5
-49,Iran,Libya,6
-50,Germany,Iran,4
-51,France,Japan,4
-52,Japan,Papua New Guinea,2
-53,India,Papua New Guinea,2
-54,Pakistan,Philippines,6
-55,Laos,Philippines,6
-56,Cambodia,Laos,6
-57,Cambodia,Kenya,6
-58,Ghana,Kenya,6
-59,Ghana,Guinea-Bissau,5
-60,Angola,Guinea-Bissau,6
-61,Angola,Mozambique,6
-62,Latvia,Mozambique,2
-63,Estonia,Lithuania,6
-64,Finland,Romania,6
-65,Albania,Romania,5
-66,Albania,Bulgaria,6
-67,Bulgaria,Poland,6
-68,Poland,Romania,6
-69,Hungary,Romania,6
-70,Hungary,Mongolia,5
-71,China,Mongolia,6
-72,China,North Korea,6
-73,Cuba,North Korea,10
-74,North Korea,United States,6
-75,South Korea,United States,6
-76,Canada,South Korea,6
-77,Australia,Canada,6
-78,Australia,Vietnam,4
-79,Cambodia,Vietnam,5
-80,Cuba,Vietnam,5
-81,Cuba,United States,3
-82,Russia,United States,2
-83,India,South Africa,1
-84,Rwanda,South Africa,5
-85,North Korea,Rwanda,2
+0,Austria,France,6
+1,Austria,Hungary,6
+2,Hungary,Russia,5
+3,Germany,Russia,33
+4,Germany,Ukraine,10
+5,Germany,Italy,26
+6,Austria,Germany,10
+7,France,United Kingdom,24
+8,France,Poland,6
+9,Poland,United Kingdom,5
+10,France,Germany,13
+11,Germany,Poland,21
+12,Poland,Russia,12
+13,Estonia,Germany,5
+14,Estonia,Latvia,12
+15,Latvia,Lithuania,6
+16,Finland,Lithuania,11
+17,Finland,Germany,5
+18,Denmark,Poland,5
+19,Denmark,Norway,6
+20,Norway,Sweden,5
+21,Germany,Sweden,6
+22,Germany,Netherlands,5
+23,Luxembourg,Netherlands,6
+24,Belgium,Luxembourg,4
+25,Belgium,France,5
+26,France,Italy,5
+27,Greece,Italy,5
+28,Greece,United Kingdom,8
+29,Germany,United Kingdom,13
+30,Albania,Greece,12
+31,Greece,Russia,5
+32,Russia,Ukraine,1
+33,Belarus,Ukraine,6
+34,Belarus,Libya,2
+35,Egypt,Libya,15
+36,Egypt,Iraq,5
+37,Iran,Iraq,6
+38,Japan,United States,35
+39,Germany,Japan,17
+40,Russia,United States,27
+41,Morocco,United Kingdom,5
+42,Algeria,Morocco,6
+43,Algeria,Italy,5
+44,Italy,United Kingdom,3
+45,United Kingdom,United States,6
+46,France,United States,7
+47,Germany,United States,19
+48,China,Japan,27
+49,Italy,Japan,5
+50,Japan,Thailand,6
+51,Singapore,Thailand,6
+52,Philippines,Singapore,6
+53,Japan,Philippines,4
+54,Japan,Solomon Islands,13
+55,Philippines,Solomon Islands,5
+56,Australia,Philippines,6
+57,Australia,Japan,5
+58,India,Japan,11
+59,China,United States,12
+60,Japan,Russia,7
+61,France,Russia,6
+62,China,France,6
+63,China,India,12
+64,India,Pakistan,12
+65,Israel,Pakistan,6
+66,Israel,North Korea,6
+67,North Korea,South Africa,5
+68,Israel,South Africa,6
+69,Israel,Libya,5
+70,Iran,Libya,6
+71,Iran,United States,4
+72,France,Japan,3
+73,India,Papua New Guinea,1
+74,Pakistan,Philippines,5
+75,Laos,Philippines,5
+76,Cambodia,Laos,6
+77,Cambodia,Vietnam,6
+78,Kenya,Vietnam,5
+79,Ghana,Kenya,6
+80,France,Ghana,4
+81,Angola,France,5
+82,Angola,Russia,2
+83,Latvia,United States,2
+84,Estonia,Lithuania,6
+85,Finland,Romania,6
+86,Romania,Russia,6
+87,Albania,Russia,5
+88,Albania,Bulgaria,6
+89,Bulgaria,Poland,6
+90,Poland,Romania,6
+91,Hungary,Romania,6
+92,Hungary,Mongolia,4
+93,China,Mongolia,6
+94,China,North Korea,6
+95,Cuba,North Korea,6
+96,Cuba,Vietnam,10
+97,Russia,Vietnam,5
+98,North Korea,Russia,3
+99,North Korea,United States,6
+100,South Korea,United States,6
+101,Canada,South Korea,5
+102,Australia,Canada,6
+103,Australia,United Kingdom,6
+104,United Kingdom,Vietnam,3
+105,United States,Vietnam,9
+106,Cambodia,United States,9
+107,Cuba,United States,5
+108,Canada,Japan,6
+109,Canada,Russia,3
+110,Lithuania,United States,5
+111,Lithuania,Russia,5
+112,Rwanda,South Africa,5
+113,North Korea,Rwanda,2
